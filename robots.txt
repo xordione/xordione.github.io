@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xordione.github.io/sitemap.html.gz
+Sitemap: https://xordione.github.io/app/sitemap.html.gz
+Sitemap: https://xordione.github.io/assets/sitemap.html.gz
+Sitemap: https://xordione.github.io/css/sitemap.html.gz
+Sitemap: https://xordione.github.io/includes/sitemap.html.gz
+Sitemap: https://xordione.github.io/item/sitemap.html.gz
+Sitemap: https://xordione.github.io/src/sitemap.html.gz
